@@ -9,5 +9,11 @@ Python 3.x
 
 Libraries: beautifulsoup4, requests, transformers, pandas, gspread, oauth2client, matplotlib, wordcloud
 
+# Data Sources
+1. Web Scrape the following website
+   https://www.cnbc.com/search/?query=green%20hydrogen&qsearchterm=green%20hydrogen
+2. google news rss feed to get all news headline having “green hydrogen” as keyword
+   https://news.google.com/rss/search?q=green%20hydrogen&hl=en-IN&gl=IN&ceid=IN:en
+
 # Collaboratory Link
 https://colab.research.google.com/drive/1zvhK4C3r-6sAYLybB9G0r9uc1wDnrOP_?usp=drive_link
