@@ -11,8 +11,10 @@ Libraries: beautifulsoup4, requests, transformers, pandas, gspread, oauth2client
 
 # Data Sources
 1. Web Scrape the following website
+
    https://www.cnbc.com/search/?query=green%20hydrogen&qsearchterm=green%20hydrogen
-2. google news rss feed to get all news headline having “green hydrogen” as keyword
+3. google news rss feed to get all news headline having “green hydrogen” as keyword
+
    https://news.google.com/rss/search?q=green%20hydrogen&hl=en-IN&gl=IN&ceid=IN:en
 
 # Collaboratory Link
