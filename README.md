@@ -6,6 +6,7 @@ This Python project aims to analyze the growing interest in "Green Hydrogen" by 
 
 # Requirements
 Python 3.x
+
 Libraries: beautifulsoup4, requests, transformers, pandas, gspread, oauth2client, matplotlib, wordcloud
 
 # Collaboratory Link
